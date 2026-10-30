@@ -1,0 +1,35 @@
+{
+    "name": "FruitBari - Seasonal Fruit Marketplace",
+    "short_name": "FruitBari",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F8FAF5",
+    "theme_color": "#16803C",
+    "description": "Connecting customers with local seasonal fruit farmers in Bangladesh. Fresh Fruits • Better Tomorrow.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
